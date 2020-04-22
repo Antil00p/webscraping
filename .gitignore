@@ -1,3 +1,4 @@
 *.png
 *.csv
 *_copy.py
+.ipynb_checkpoints/
